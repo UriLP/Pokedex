@@ -25,7 +25,7 @@ const SearchBar = () => {
         />
       </div>
       <div>
-        <button onClick={onClick}>Buscar</button>
+        <button onClick={onClick}>Search</button>
       </div>
       {pokemon &&
         <div>
